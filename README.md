@@ -22,31 +22,13 @@ This repository contains the files of a low-cost robotic arm project developed a
 
 Some images of the development process, assembly, tests and final structure of the robotic arm are shown below.
 
-### Development Images
-
-| Image 01 | Image 02 | Image 03 |
+| Image 01 | Image 03 | Image 07 |
 |---|---|---|
-| <img src="images/IMG_0020-%20editada.jpg" alt="Project image 01" width="250"> | <img src="images/IMG_0027-%20editada.jpg" alt="Project image 02" width="250"> | <img src="images/IMG_1122-%20editada.jpg" alt="Project image 03" width="250"> |
+| <img src="images/IMG_0020-%20editada.jpg" alt="Project image 01" width="250"> | <img src="images/IMG_1122-%20editada.jpg" alt="Project image 03" width="250"> | <img src="images/IMG_1550-%20editada.jpg" alt="Project image 07" width="250"> |
 
-| Image 04 | Image 05 | Image 06 |
+| Image 10 | Image 15 | Image 17 |
 |---|---|---|
-| <img src="images/IMG_1148-%20editada.jpg" alt="Project image 04" width="250"> | <img src="images/IMG_1167-%20editada.jpg" alt="Project image 05" width="250"> | <img src="images/IMG_1536-%20editada.jpg" alt="Project image 06" width="250"> |
-
-| Image 07 | Image 08 | Image 09 |
-|---|---|---|
-| <img src="images/IMG_1550-%20editada.jpg" alt="Project image 07" width="250"> | <img src="images/IMG_2568-%20editada.jpg" alt="Project image 08" width="250"> | <img src="images/IMG_2573-%20editada.jpg" alt="Project image 09" width="250"> |
-
-| Image 10 | Image 11 | Image 12 |
-|---|---|---|
-| <img src="images/IMG_2575-%20editada.jpg" alt="Project image 10" width="250"> | <img src="images/IMG_2576-%20editada.jpg" alt="Project image 11" width="250"> | <img src="images/IMG_2579-%20editada.jpg" alt="Project image 12" width="250"> |
-
-| Image 13 | Image 14 | Image 15 |
-|---|---|---|
-| <img src="images/IMG_2580-%20editada.jpg" alt="Project image 13" width="250"> | <img src="images/IMG_2581-%20editada.jpg" alt="Project image 14" width="250"> | <img src="images/IMG_2582-%20editada.jpg" alt="Project image 15" width="250"> |
-
-| Image 16 | Image 17 |
-|---|---|
-| <img src="images/IMG_2583-%20editada.jpg" alt="Project image 16" width="250"> | <img src="images/IMG_2592-%20editada.jpg" alt="Project image 17" width="250"> |
+| <img src="images/IMG_2575-%20editada.jpg" alt="Project image 10" width="250"> | <img src="images/IMG_2582-%20editada.jpg" alt="Project image 15" width="250"> | <img src="images/IMG_2592-%20editada.jpg" alt="Project image 17" width="250"> |
 
 ## Tecnologias e componentes
 
