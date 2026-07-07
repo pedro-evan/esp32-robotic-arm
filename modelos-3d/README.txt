@@ -1,0 +1,4 @@
+ESP32 BT Robotic Arm with High Torque Servos + Android App by DavTech_3D on Thingiverse: https://www.thingiverse.com/thing:6896222
+
+Summary:
+Hi all!This is a robotic arm I designed and built using high-torque servos as part of an experiment.It is controlled by an ESP-WROOM-32 board via bluetooth with an android app. ESP32 firmware: https://shorturl.at/9WMhBAndroid APK: https://shorturl.at/bdj2o.Demo: https://youtu.be/tHOF4dXdar8Exploded View: https://youtu.be/3sq2xnKSWrEI'll upload a guide on my website soon, in the meanwhile ask your questions in the comment section.Enjoy!Would you like to buy me a macchiato? https://paypal.me/DavideRado?country.x=IT&amp;locale.x=it_ITMy website       https://www.daviderado.com/My instagram   https://www.instagram.com/davide_rado/My linkedin       https://linkedin.com/in/davide-rado-a32078157
