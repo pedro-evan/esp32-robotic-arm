@@ -70,9 +70,9 @@ The MIT License in this repository applies only to the source code and original 
 ## Estrutura do repositório
 
 ```text
-artigo/        Materiais relacionados ao relatório do TCC
-firmware/      Código-fonte do ESP32 e ESP32-CAM
-imagens/       Fotos do desenvolvimento e testes
-modelos-3d/   Arquivos 3D utilizados no projeto
-esquemas/      Diagramas, circuitos e ligações
+article/        Final article about the developing of this project
+firmware/       ESP32 and ESP32-CAM source-code
+images/         Photos from the development and testing
+modelos-3d/     3D files
+schmatics/      Circuits and diagrams
 
