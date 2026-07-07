@@ -39,6 +39,16 @@ This repository contains the files of a low-cost robotic arm project developed a
 - Arduino IDE
 
 ---
+## Créditos dos modelos 3D
+
+Os modelos 3D utilizados como base para a estrutura mecânica do braço robótico foram obtidos no Thingiverse:
+
+**ESP32 BT Robotic Arm with High Torque Servos + Android App**  
+Autor/Author: DavTech_3D  
+Fonte: https://www.thingiverse.com/thing:6896222  
+Licença: Creative Commons - Attribution - Share Alike
+
+Os arquivos foram utilizados como referência/base para a construção física do protótipo. Caso tenham sido realizadas adaptações, elas foram feitas para adequação ao projeto de TCC.
 
 ## Estrutura do repositório
 
