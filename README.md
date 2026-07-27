@@ -2,9 +2,29 @@
 
 > Projeto de TCC desenvolvido no curso técnico em Eletrônica, utilizando ESP32, módulo PCA9685, servos motores e interface web para controle de um braço robótico.
 
-## English
-
 > Final technical course project: robotic arm controlled by ESP32, PCA9685 module, servo motors and a web-based control interface.
+
+---
+
+## Equipe do projeto
+
+Projeto desenvolvido como Trabalho de Conclusão de Curso do curso técnico em Eletrônica da ETEC Philadelpho Gouvêa Netto.
+
+### Integrantes
+
+* **Pedro Evangelista**
+* **Pedro Bevilaqua**
+* **Marcelo Henrique**
+
+## Project Team
+
+Project developed as a final technical course project for the Electronics Technical Program at ETEC Philadelpho Gouvêa Netto.
+
+### Team members
+
+* **Pedro Evangelista**
+* **Pedro Bevilaqua**
+* **Marcelo Henrique**
 
 ---
 
