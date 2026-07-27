@@ -68,7 +68,7 @@ These 3D models were used as a base/reference for the physical construction of t
 
 The MIT License in this repository applies only to the source code and original documentation developed for this project. The 3D models follow the license defined by their original author.
 
-## Estrutura do repositório
+## Estrutura do repositório / Repository Structure
 
 ```text
 article/        Final article about the developing of this project
