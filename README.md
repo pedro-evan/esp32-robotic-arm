@@ -1,4 +1,4 @@
-# Braço Robótico com ESP32
+# Braço Robótico com ESP32 / ESP32 Robotic Arm
 
 > Projeto de TCC desenvolvido no curso técnico em Eletrônica, utilizando ESP32, módulo PCA9685, servos motores e interface web para controle de um braço robótico.
 
@@ -6,21 +6,13 @@
 
 ---
 
-## Equipe do projeto
+## Equipe do Projeto / Project Team
 
 Projeto desenvolvido como Trabalho de Conclusão de Curso do curso técnico em Eletrônica da ETEC Philadelpho Gouvêa Netto.
 
-### Integrantes
-
-* **Pedro Evangelista**
-* **Pedro Bevilaqua**
-* **Marcelo Henrique**
-
-## Project Team
-
 Project developed as a final technical course project for the Electronics Technical Program at ETEC Philadelpho Gouvêa Netto.
 
-### Team members
+### Integrantes / Team members
 
 * **Pedro Evangelista**
 * **Pedro Bevilaqua**
@@ -28,17 +20,16 @@ Project developed as a final technical course project for the Electronics Techni
 
 ---
 
-## Sobre o projeto
+## Sobre o projeto / About the project
 
 Este repositório contém os arquivos de um braço robótico de baixo custo, desenvolvido em equipe como Trabalho de Conclusão de Curso. O sistema utiliza um ESP32 como controlador principal, um módulo PCA9685 para controle dos servos motores e uma interface web para movimentação do braço.
-
-## About the project
 
 This repository contains the files of a low-cost robotic arm developed by a team as a final technical course project. The system uses an ESP32 as the main controller, a PCA9685 module to control the servo motors, and a web interface for robotic arm movement.
 
 ---
 
-## Project Gallery
+## Galeria do Projeto / Project Gallery
+Algumas imagens do desenvolvimento, montagem, testes e sua a estrutura final do braço robótico abaixo.
 
 Some images of the development process, assembly, tests and final structure of the robotic arm are shown below.
 
@@ -50,17 +41,7 @@ Some images of the development process, assembly, tests and final structure of t
 |---|---|---|
 | <img src="images/IMG_2575-%20editada.jpg" alt="Project image 10" width="250"> | <img src="images/IMG_2582-%20editada.jpg" alt="Project image 15" width="250"> | <img src="images/IMG_2592-%20editada.jpg" alt="Project image 17" width="250"> |
 
-## Tecnologias e componentes
-
-- ESP32 DevKit
-- PCA9685 16 canais
-- Servos motores MG995
-- Servo motor SG90 para a garra
-- ESP32-CAM
-- HTML, CSS e JavaScript
-- Arduino IDE
-
-## Technologies and components
+## Componentes / Components
 
 - ESP32 DevKit
 - PCA9685 16-channel module
