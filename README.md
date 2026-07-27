@@ -30,11 +30,11 @@ Project developed as a final technical course project for the Electronics Techni
 
 ## Sobre o projeto
 
-Este repositório contém os arquivos do projeto de um braço robótico de baixo custo, desenvolvido como Trabalho de Conclusão de Curso. O sistema utiliza um ESP32 como controlador principal, um módulo PCA9685 para controle dos servos motores e uma interface web para movimentação do braço.
+Este repositório contém os arquivos de um braço robótico de baixo custo, desenvolvido em equipe como Trabalho de Conclusão de Curso. O sistema utiliza um ESP32 como controlador principal, um módulo PCA9685 para controle dos servos motores e uma interface web para movimentação do braço.
 
 ## About the project
 
-This repository contains the files of a low-cost robotic arm project developed as a final eletronics course project. The system uses an ESP32 as the main controller, a PCA9685 module to control the servo motors, and a web interface for robotic arm movement.
+This repository contains the files of a low-cost robotic arm developed by a team as a final technical course project. The system uses an ESP32 as the main controller, a PCA9685 module to control the servo motors, and a web interface for robotic arm movement.
 
 ---
 
